@@ -1,4 +1,4 @@
-import java.util.Arrays;
+ import java.util.Arrays;
 
 public class Solution {  // Rename class to "Solution"
     public int minCut(String s) {
