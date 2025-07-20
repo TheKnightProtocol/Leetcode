@@ -7,7 +7,7 @@ Here, I regularly upload well-structured code for problems I've solved across va
 
 ## 📌 About Me
 
-**Name:** Sankalp Sharma  
+**Name:** Sankalp   
 **GitHub:** [GUARDIANDOFCODE](https://github.com/GUARDIANDOFCODE)  
 I’m passionate about coding, problem-solving, and constantly improving my skills through competitive programming and hands-on challenges.
 
