@@ -1,4 +1,4 @@
-# LeetCode Solutions by Sankalp Sharma 👨‍💻
+# LeetCode Solutions by Sankalp 👨‍💻
 
 Welcome to my personal collection of LeetCode solutions!  
 Here, I regularly upload well-structured code for problems I've solved across various topics like Data Structures, Algorithms, and System Design.
