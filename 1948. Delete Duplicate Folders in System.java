@@ -19,7 +19,7 @@ class Solution {
         List<List<String>> result = new ArrayList<>();
         dfs(root, new ArrayList<>(), result);
 
-        return result;
+        return result; 
     }
 
     private String buildHash(TrieNode node, Map<String, TrieNode> seen) {
