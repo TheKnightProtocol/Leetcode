@@ -36,7 +36,7 @@ Each file is clearly named and includes clean, readable code in languages like *
 ## 🤝 Let's Connect
 
 Feel free to check out my profile and follow for updates:  
-🔗 [github.com/GUARDIANDOFCODE](https://github.com/GUARDIANDOFCODE)
+🔗 [github.com/GUARDIANDOFCODE](https://github.com/Theknightprotocol)
 
 ---
 
