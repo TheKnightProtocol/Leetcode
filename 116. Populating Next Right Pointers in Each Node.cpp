@@ -2,7 +2,7 @@ class Solution {
 public:
     Node* connect(Node* root) {
         if (!root) return nullptr;
-        
+         
         Node* levelStart = root;
         
         while (levelStart->left) {
