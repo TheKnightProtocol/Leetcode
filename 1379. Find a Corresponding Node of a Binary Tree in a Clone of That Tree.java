@@ -5,7 +5,7 @@ class Solution {
         }
         if (original == target) {
             return cloned;
-        }
+        } 
         TreeNode left = getTargetCopy(original.left, cloned.left, target);
         if (left != null) {
             return left;
