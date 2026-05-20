@@ -1,7 +1,7 @@
 #include <vector>
 using namespace std;
 
-class Solution {
+class Solution { 
 public:
     vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
         int n = A.size();
